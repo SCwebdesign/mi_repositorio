@@ -1,0 +1,15 @@
+$titulo: 30px 'roboto';
+$color: white;
+
+h1 h2 h3 p	{
+	font: $titulo;
+	color: $color;
+}
+
+.header__logo {
+	width: 100vw;
+}
+
+.menu__li {
+	color:$color;
+}
